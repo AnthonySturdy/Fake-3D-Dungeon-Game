@@ -1,5 +1,5 @@
 # 'Fake' 3D Dungeon
-This project is a simple wave-based dungeon game, the game has a 3D effect, but is rendered in a 2D framework called S2D (University's in-house framework). It was made for the my Fundamentals of Game and Graphical Systems Development module (Year 1, Semester 1), for the assignment we were tasked with creating a 2D game using the framework provided.
+This project is a simple wave-based dungeon game, the game has a 3D effect, but is rendered in a 2D framework called S2D (University's in-house framework). It was made for the my Fundamentals of Game and Graphical Systems Development module (Year 1, Semester 1), for the assignment we were tasked with creating a 2D game using the framework provided. We were also tasked with creating a small pacman style game to demonstrate features of the framework.
 
 The 3D effect is achieved by layering multiple sprites per model, each sprite is a horizontal slice of the model, which is then positioned and rotated correctly to appear 3D.
 
