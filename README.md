@@ -5,7 +5,7 @@ The 3D effect is achieved by layering multiple sprites per model, each sprite is
 
 The gameplay is an infinite wave-base game, where slimes spawn randomly, the objective is to survive as long as possible and reach the highest score, which is then uploaded to an online leaderboard to compare with others.
 
-![E1M1 Rendered in OpenGL](https://anthonysturdy.co.uk/Images/Fake_3D_1.png)
+![E1M1 Rendered in OpenGL](https://i.imgur.com/b3e1zf3.png)
 
 ## Features
 - 3D Effect in 2D Framework
