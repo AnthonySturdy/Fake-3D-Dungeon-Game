@@ -1,2 +1,3 @@
 Pacman/S2D/* linguist-vendored
 Pacman/curl/* linguist-vendored
+*.h linguist-language=C++
